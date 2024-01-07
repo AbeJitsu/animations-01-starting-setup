@@ -150,7 +150,7 @@ button:active {
 }
 
 .para-enter-active {
-  animation: slide-scale 2s ease-out;
+  animation: slide-scale .3s ease-out;
 }
 
 .para-enter-to {
